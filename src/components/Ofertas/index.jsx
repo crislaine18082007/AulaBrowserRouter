@@ -1,0 +1,1 @@
+//Na página Ofertas, deve haver uma lista com 10 objetos.
