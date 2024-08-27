@@ -1,15 +1,13 @@
-<<<<<<< HEAD
 export default function Footer(){
     return(
         <>
 
+        <footer>
+           <div className="rodape">
+            <h2 class>Desenvolvido por Crislaine Cordeiro - Info 3A</h2>
+</div>
+        </footer>
+
         </>
     )
-=======
-export default function Footer( {desenvolvedor} ){
-    return(
-
-        <h1>{desenvolvedor}</h1>
-    );
->>>>>>> 3ed61cb8047cae52e1ef37aaa39d967c86454859
 }
